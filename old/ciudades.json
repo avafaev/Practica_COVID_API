@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "id_ciudad": 101,
+        "Ciudad": "Madrid",
+        "Coordenadas": [
+            40.4168,
+            -3.7038
+        ]
+    },
+    {
+        "id": 2,
+        "id_ciudad": 102,
+        "Ciudad": "Paris",
+        "Coordenadas": [
+            41.3851,
+            2.1734
+        ]
+    },
+    {
+        "id": 3,
+        "id_ciudad": 103,
+        "Ciudad": "Berlin",
+        "Coordenadas": [
+            39.4699,
+            -0.3763
+        ]
+    },
+    {
+        "id": 4,
+        "id_ciudad": 104,
+        "Ciudad": "Rome",
+        "Coordenadas": [
+            48.8566,
+            2.3522
+        ]
+    },
+    {
+        "id": 5,
+        "id_ciudad": 105,
+        "Ciudad": "London",
+        "Coordenadas": [
+            52.52,
+            13.405
+        ]
+    },
+    {
+        "id": 6,
+        "id_ciudad": 106,
+        "Ciudad": "Lisboa",
+        "Coordenadas": [
+            41.9028,
+            12.4964
+        ]
+    }
+]
